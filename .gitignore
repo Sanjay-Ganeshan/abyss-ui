@@ -3,3 +3,4 @@ images/*
 save
 character_data_*.pkl
 !images/elements
+!images/blank.png
